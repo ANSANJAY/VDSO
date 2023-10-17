@@ -1,6 +1,3 @@
-I apologize for the oversight. Here's the rendered version of the readme with emojis:
-
----
 
 # vDSO Exploration in Linux 🔍
 
